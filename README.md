@@ -36,3 +36,51 @@ Wireframes focus on structure and usability rather than visual design. Below are
   - *Example*: A wireframe for a checkout page might include a payment form, a “Confirm Booking” button, and a summary of selected services—clarifying the user’s path to completion.
 
 Together, these elements help designers and stakeholders visualize how users will interact with the product, making it easier to refine usability before investing in detailed design or development.
+
+## Types of Wireframes
+
+Wireframes can vary in detail and purpose depending on the stage of the design process. The two most common types are:
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple, sketch-like representations of a user interface. They focus on layout, structure, and basic functionality without visual polish.
+
+- **Characteristics**:
+  - Black-and-white or grayscale
+  - Placeholder text and shapes (e.g., boxes for images, lines for text)
+  - No styling, branding, or detailed content
+
+- **When to Use**:
+  - Early in the design process
+  - During brainstorming or ideation
+  - When gathering feedback on layout and user flow
+
+- **Benefits**:
+  - Fast to create and easy to revise
+  - Encourages focus on structure over aesthetics
+  - Ideal for collaborative discussions
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and closely resemble the final product. They include specific content, typography, spacing, and sometimes interactive elements.
+
+- **Characteristics**:
+  - Accurate spacing and alignment
+  - Real or near-final content
+  - May include color, icons, and branding elements
+
+- **When to Use**:
+  - Later stages of design
+  - Before handoff to developers
+  - When validating usability and visual hierarchy
+
+- **Benefits**:
+  - Provides a realistic preview of the interface
+  - Useful for stakeholder presentations and usability testing
+  - Bridges the gap between design and development
+
+---
+
+## Identifying the Wireframe Type
+
+The wireframe provided earlier is a **low-fidelity wireframe**. It uses basic shapes and labels to represent actors and use cases without visual styling or branding. Its purpose is to communicate system functionality and user interactions at a conceptual level, making it ideal for early-stage analysis and feedback.
