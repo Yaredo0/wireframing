@@ -84,3 +84,27 @@ High-fidelity wireframes are more detailed and closely resemble the final produc
 ## Identifying the Wireframe Type
 
 The wireframe provided earlier is a **low-fidelity wireframe**. It uses basic shapes and labels to represent actors and use cases without visual styling or branding. Its purpose is to communicate system functionality and user interactions at a conceptual level, making it ideal for early-stage analysis and feedback.
+
+## Popular Wireframing Tools
+
+Wireframing tools help designers quickly sketch and iterate on interface layouts. They range from simple drag-and-drop platforms to robust design systems with collaboration features. Below are some widely used wireframing tools:
+
+- **Figma**
+  - Figma is a cloud-based design tool known for its real-time collaboration, intuitive interface, and versatility. It allows teams to create wireframes, prototypes, and high-fidelity designs all in one platform.
+  - **Key Features**:
+    - Browser-based with no installation required
+    - Live collaboration and commenting
+    - Extensive library of UI components and templates
+    - Easy sharing and version control
+    - Supports both low-fidelity and high-fidelity wireframes
+  - **Why It’s Useful**:
+    - Figma streamlines the design process by enabling designers, developers, and stakeholders to work together seamlessly. Its flexibility makes it ideal for wireframing early concepts and refining them into polished designs.
+
+- **Other Tools to Explore**:
+  - **Balsamiq** – Great for quick, low-fidelity wireframes with a hand-drawn look.
+  - **Sketch** – Popular among Mac users for high-fidelity design and prototyping.
+  - **Adobe XD** – Offers robust design and prototyping features with integration into Adobe’s ecosystem.
+  - **Lucidchart** – Useful for diagramming and simple wireframes, especially in technical environments.
+
+Choosing the right tool depends on your workflow, team size, and design goals. Figma stands out for its accessibility and collaborative power, making it a top choice for modern design teams.
+
